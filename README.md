@@ -1,4 +1,4 @@
-# Hi, I'm Nezareeen 👋
+# Hi, I'm Neo (AKA Nezareeen) 👋
 
 I'm a developer, designer, and student passionate about building elegant solutions and beautiful web experiences.
 
