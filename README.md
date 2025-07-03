@@ -1,4 +1,4 @@
-# Hi, I'm Neo (AKA Nezareeen) 👋
+# Hi, I'm Nezareeen 👋
 
 I'm a developer, designer, and student passionate about building elegant solutions and beautiful web experiences.
 
@@ -19,6 +19,7 @@ I'm a developer, designer, and student passionate about building elegant solutio
 - **Frontend:** React (Vite), Responsive Design
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, SQL
+- **Design:** Figma (very proficient), UI/UX, Web Design
 
 ---
 
